@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cali-trip-itinerary/static/css/main.e6c13ad2.css",
+    "main.js": "/cali-trip-itinerary/static/js/main.4f75628f.js",
+    "index.html": "/cali-trip-itinerary/index.html",
+    "main.e6c13ad2.css.map": "/cali-trip-itinerary/static/css/main.e6c13ad2.css.map",
+    "main.4f75628f.js.map": "/cali-trip-itinerary/static/js/main.4f75628f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4f75628f.js"
+  ]
+}
